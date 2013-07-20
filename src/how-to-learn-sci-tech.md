@@ -45,6 +45,8 @@ and links to good sources to learn those subjects.
 Within each section, the most basic subjects are listed first.
 The hardest subject of an area may have to be learnt before the first subject of another area.
 
+Sources are listed in the order which you should read them.
+
 ##latex
 
 Best way to make professional texts on your computer, to then transform them in pdfs.
@@ -64,6 +66,7 @@ Sources: lots of free tutorials online, just google for it.
 ####next steps
 
 - a source code control sytem such as Git.
+
 - markdown, specially pandoc markdown. It may replace latex in the future, as it is easier to read and write.
 
 ##proramming
@@ -81,13 +84,13 @@ Very important programmin language because it is used to write fundamental progr
 - the Windows kernel
 - programs that run other languages such as python
 
+And many many other very important programs.
+
 Can produce very fast programs.
 
 Great fun to apply more theorical things you are learning.
 
-To really underestand what is going on in your machine, learn assembler after this.
-
-You can find many free tutorials on the web, just google for them.
+Sources: many free tutorials on the web, just google for them.
 
 ####next steps
 
@@ -115,6 +118,9 @@ Those formulas are written down in mathematics.
 ###calculus
 
 Basis of all physics and applieds mathematics. *Extermelly imporant*.
+
+Free sources: this is one of the subjects with the largest ammounts of free material online,
+due to is absolute importance. Just google for them.
 
 Non free sources:
 
