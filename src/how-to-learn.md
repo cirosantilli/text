@@ -34,8 +34,10 @@ Subjective but good enough for our purposes.
 
 Once you have decided the subject, find all the best sources like books or tutorials on the subject.
 
-There are more and more free materials online. Try them out, but for certain subjects they are simply not good enough,
-and you will need non-free books.
+There are more and more free materials online.
+Search for them and try them out. Their quality realy depends on the subject area.
+For certain subjecs you really need non-free books.
+Sometimes there are small tutorials which clarify points that most books don't.
 
 How to find the best books:
 
@@ -43,7 +45,7 @@ How to find the best books:
 
 - put the subject name on [amazon](http://www.amazon.com/) and see the top books.
 
-- [google](https://google.com) `SUBJECT best books`, or `SUBJECT best tutorials` or `SUBJECT best free books`
+- [google](https://google.com) `SUBJECT best books`, or `SUBJECT best tutorials` or `SUBJECT best free books`.
 
 ##get the sources
 
@@ -62,7 +64,9 @@ This way you can compare prices across many sites for the exact same book.
 Please do *not* download material illegally via methods like:
 
 - torrent
-- upload sites. Most of those have links coming from irresponsible blogs. Don't trust them!
+- upload sites. Most of those have links coming from irresponsible blogs
+
+since this bankrupts publishing companies, and inhibits the creation of new books.
 
 ##use the sources
 
@@ -75,7 +79,7 @@ Start with sources that are
 - concrete with lots of examples
 - motivational
 
-and *not* very complete and theorethical.
+and *not* too theorethical.
 
 If things stop making sense, try for 5 more minutes, and then jump:
 
@@ -85,3 +89,7 @@ If things stop making sense, try for 5 more minutes, and then jump:
 
 If you could not understand something, it is because there is someting else missing, possible from another source.
 Don't wast too much time stuck on a single point: when you less expect you will find the answer.
+
+Whenever you learn something, specially if it was difficult to learn, *write it down* somewhere you will find it again.
+Even better: write it down on your computer and publish it online to help others.
+Many methods are available such as blogs, but the best is writting in latex or markdown and uploading to github.
