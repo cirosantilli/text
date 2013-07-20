@@ -18,9 +18,9 @@ Each subsection should be learnt at the same time.
 
 ##1
 
-- the [C programming language](#c-Programming-language)
+- the [C programming language](#c-programming-language)
 - [latex](#latex)
-- [calculus](calculus) single variable up to integration and ODEs.
+- [calculus](#calculus) single variable up to integration and ODEs.
 
 ##2
 
