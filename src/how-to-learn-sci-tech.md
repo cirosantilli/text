@@ -26,7 +26,7 @@ Each subsection should be learnt at the same time.
 
 - all of calculus: multivariable, power series, PDEs, Fourrier transforms,
 - all of linear algebra
-- computer algorithms and data structures
+- [turing machines, algorithms, data structures, Big(O) notation](algorithms)
 - numerical methods to solve linear algebra and calculus problems
 - physics: mechanics and eletromagnetism.
 
@@ -69,7 +69,7 @@ Sources: lots of free tutorials online, just google for it.
 
 - markdown, specially pandoc markdown. It may replace latex in the future, as it is easier to read and write.
 
-##proramming
+##computer science
 
 Programming is fun, useful and costless if you have a computer at hand.
 
@@ -105,9 +105,32 @@ Sources: many free tutorials on the web, just google for them.
 
 ###Python programming language
 
-###algorithms and data structures.
+###algorithms
 
-Learn big O complexity. This is how algorithms are compared for which is better than which. Requires calculus.
+- turing machine. Without it algorithm analysis makes no sense.
+
+- Learn big O complexity. This is how algorithms are compared for which is better than which. Requires calculus.
+
+- learn the major data structures, associated algorithms and their complexity analysis (O(n)):
+
+    - arrays: sorting
+    - linked lists, queues, stacks
+    - hashmaps
+    - trees, binary trees: search BFS vs DFS
+    - ordered trees: RB tree, insertion, search
+    - graphs: shortest paths: Dijkstra, A*
+
+Free sources:
+
+- http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/Contents.htm
+
+    Weis ( florida international university ) lecture notes
+
+Non-free sources:
+
+- http://www.amazon.com/books/dp/0262033844
+
+    cormen - 2009 Introduction to Algorithms 3ed
 
 ##mathematics
 
